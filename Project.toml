@@ -1,0 +1,8 @@
+name = "julia_lsp_test"
+uuid = "cc68c19e-2a4f-4b9d-b3a6-557a4d58079d"
+authors = ["Dheepak Krishnamurthy <me@kdheepak.com>"]
+version = "0.1.0"
+
+[deps]
+JSON = "682c06a0-de6a-54ab-a142-c8b1cf79cde6"
+JSON3 = "0f8b85d8-7281-11e9-16c2-39a750bddbf1"
